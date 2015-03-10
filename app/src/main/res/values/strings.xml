@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HexMap</string>
+    <string name="action_settings">Settings</string>
+    <string name="quickViewButtonText">Quick View</string>
+    <string name="newsfeedButtonText">Newsfeed</string>
+    <string name="yesNoButtonText">Yes/No</string>
+    <string name="electionMapButtonText">Election Map</string>
+    <string name="drawerOpen">Open</string>
+    <string name="drawerClose">Close</string>
+    <string-array name="sideMenuItemsArray">
+        <item>Quick View</item>
+        <item>Election Map</item>
+        <item>Yes / No Quizzes</item>
+        <item>Leadeboard</item>
+        <item>Newsfeed</item>
+    </string-array>
+</resources>
